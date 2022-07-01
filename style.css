@@ -1,0 +1,39 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    background: gray;
+
+}
+.header_div{
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    background: white;
+    color: black;
+}
+
+.header_div p{
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    color: black;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+    
+}
+
+.main_div button{
+font-family: 'Times New Roman', Times, serif;
+margin-top: 30px;
+width: 150px;
+font-weight: bold;
+letter-spacing: 3px;
+font-size: 30px;
+height: 50px;
+
+}
+.copyright_footer{
+    position: fixed;
+bottom: 0px;
+color: gray;
+background-color: white;
+width: 100%;
+text-align: center;
+line-height: 3;
+}
